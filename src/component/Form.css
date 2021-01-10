@@ -1,0 +1,4 @@
+.Form__amt::-webkit-outer-spin-button,.Form__amt::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
